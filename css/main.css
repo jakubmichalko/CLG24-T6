@@ -58,7 +58,10 @@ body {
     background-color: #ffffff;
 }
 
-.logo {
+#logo {
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: bold;
     margin: 0px;
     padding: 24px;
     background-color: #DB7F67;
