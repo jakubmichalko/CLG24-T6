@@ -1,10 +1,9 @@
 .gallery-img img {
     width: auto;
     padding: 15px;
-    height: 300px;
-   
+    height: 300px; 
 }
-h2 {
-    padding: 15px;
-}
+
+h2 {padding: 15px;}
+
 p{padding: 15px;}
