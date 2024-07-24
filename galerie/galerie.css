@@ -1,8 +1,8 @@
 .nadpis {
-    font-size: 50px;
-    padding: 10px;
+    font-size: 30px;
+    padding: 20px;
+    
 }
-
 
 .reference-container {
     display: flex;
@@ -10,7 +10,7 @@
     align-items: flex-start;
     flex-wrap:wrap;
     justify-content: flex-start;
-    padding: 0 40px;
+    padding: 20px 40px;
 }
 
 .reference-item {
