@@ -2,7 +2,7 @@ main {
     padding: 24px;
 }
 
-.title {
+.title-site {
     margin-bottom: 12px;;
 }
 
@@ -23,7 +23,7 @@ main {
 
 .product {
     width: 300px;
-    background-color: white;
+    background-color: whitesmoke;
     padding: 28px;
     display: flex;
     flex-direction: column;
