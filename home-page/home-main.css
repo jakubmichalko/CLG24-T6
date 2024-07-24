@@ -2,7 +2,6 @@ html {
     height: 100vh;
 }
 
-
 main {
     height: 100%;
     width: 100%;
@@ -47,7 +46,3 @@ main {
 .button:hover {
     background-color: #DB7F67;
 }
-
-/* .intro-img {
-
-} */
