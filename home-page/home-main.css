@@ -1,0 +1,48 @@
+html {
+    height: 100vh;
+}
+
+
+main {
+    height: 100%;
+    width: 100%;
+}
+
+.introduction {
+    height: calc(100vh - 125.75px);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.right-side {
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+}
+
+.description {
+    font-size: 24px;
+    text-wrap: wrap;
+    width: 600px;
+}
+
+.page-link {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+
+.button {
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #cea999;
+    padding: 18px;
+    border-radius: 4px;
+    margin: 0;
+}
+
+/* .intro-img {
+
+} */
