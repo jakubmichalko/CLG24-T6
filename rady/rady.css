@@ -19,5 +19,7 @@ background-color: #CEC3B6;
     box-sizing: border-box;
     flex: 1 0 27%;
     margin-bottom: 15px;
+    line-height: 19px;
+    margin-top: 17px;
 }
 
