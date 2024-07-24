@@ -14,3 +14,7 @@ transform: scale(1.1);
 h2 {padding: 15px;}
 
 p{padding: 15px;}
+
+.header-title {
+    padding: 0px;
+}
