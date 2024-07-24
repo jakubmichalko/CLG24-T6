@@ -30,14 +30,15 @@
     width: auto;
     height: 300px;
     transition-duration: 1s;
+    border-radius: 4%;
 }
 
 .reference-text {
     transition-duration: 1s;
     opacity: 0;
     position: absolute;
-    height: 230px;
-    width: 220px;
+    height: 250px;
+    width: 270px;
     padding: 20px;
     top: 15px;
     margin-left: auto;
@@ -45,7 +46,7 @@
     left: 0;
     right: 0;
     text-align: left;
-    font-size: 19px;
+    font-size: 21px;
     font-style: italic;
     line-height: normal;
 }
