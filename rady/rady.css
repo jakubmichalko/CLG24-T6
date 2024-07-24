@@ -23,3 +23,15 @@ background-color: #CEC3B6;
     margin-top: 17px;
 }
 
+
+h2 {
+    display: flex;
+   justify-content: center;
+   height: 30px;
+   background: #A27E6F;
+   border: 2px solid #000000;
+   border-radius: 20px;
+   margin: 17px;
+   padding: 5px;
+   letter-spacing: 7px;
+}
