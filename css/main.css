@@ -1,28 +1,23 @@
-h1 {
-        font-family: sans-serif;
-        color: #000000;
-        display: block;
-        padding: 15px;
-        margin: 0px;
-        background-color: #DB7F67;
-        color: #000000;
+* {
+    font-family: sans-serif;
+    color: #000000;
+    margin: auto;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+.logo {
+    margin: 0px;
+    padding: 24px;
+    background-color: #DB7F67;
+    display: block;
        
 }
 
-p {
-    display: flex;
-    justify-content: end;
-    font-size: 25px;
-
-}
-
-img {
-    float: left;
-    width: 600px;
-    height: auto;
-   padding: 50px;
-}
- 
-body {
-    background-color: #ffffff;
+footer {
+    background-color: #DB7F67;
+    margin-top: 12px;
+    padding: 12px;
 }
