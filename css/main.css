@@ -54,10 +54,36 @@ table {
     margin: auto;
 }
 
+h1 {
+    font-size: 2em;
+    font-weight: bolder;
+}
+
 h2 {
     font-size: 1.5em;
     font-weight: bolder;
 }
+
+h3 {
+    font-size: 1.17em;
+    font-weight: bolder;
+}
+
+h4 {
+    font-size: 1em;
+    font-weight: bolder;
+}
+
+h5 {
+    font-size: 0.83em;
+    font-weight: bolder;
+}
+
+h6 {
+    font-size: 0.67em;
+    font-weight: bolder;
+}
+
 
 body {
     background-color: #e2d6c9;
@@ -87,6 +113,10 @@ header {
 
 .logo-img {
     height: 36px;
+}
+
+.title {
+    font-size: 24px;
 }
 
 .socials {
