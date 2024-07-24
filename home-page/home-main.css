@@ -41,6 +41,11 @@ main {
     padding: 18px;
     border-radius: 4px;
     margin: 0;
+    transition-duration: 500ms;
+}
+
+.button:hover {
+    background-color: #DB7F67;
 }
 
 /* .intro-img {
