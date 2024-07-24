@@ -60,9 +60,8 @@ h2 {
 }
 
 body {
-    background-color: #e2d6c9;
+    background-color: #ffffff;
     font-family: sans-serif;
-    margin: auto;
 }
 
 header {
@@ -95,11 +94,7 @@ header {
 }
 
 footer {
-    text-align: center;
     background-color: #DB7F67;
     margin-top: 12px;
     padding: 12px;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
 }
