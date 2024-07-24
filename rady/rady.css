@@ -14,13 +14,15 @@ background-color: #CEC3B6;
 .article-box {
     background-color: #A27E6F;
     border: 2px solid #000000;
-    border-radius: 60px;
+    border-radius: 4px;
     padding: 50px; 
     box-sizing: border-box;
     flex: 1 0 27%;
     margin-bottom: 15px;
     line-height: 19px;
     margin-top: 17px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 
@@ -30,8 +32,10 @@ h2 {
    height: 30px;
    background: #A27E6F;
    border: 2px solid #000000;
-   border-radius: 20px;
+   border-radius: 4px;
    margin: 17px;
    padding: 5px;
    letter-spacing: 7px;
+   align-items: center;
 }
+
