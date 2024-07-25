@@ -33,6 +33,7 @@ main {
     gap: 12px;
     display: flex;
     flex-direction: column;
+    justify-content: flex-end;
     border-radius: 4px;
     transition-duration: 300ms;
 }
@@ -55,22 +56,23 @@ main {
 
 .product .icon {
     padding: 0px;
-    width: 32px;
+    width: 28px;
 }
 
 .product .buy-a {
     display: flex;
-    justify-content: flex-end;
     text-decoration: none;
 }
 
 .product .buy {
     background-color: #DB7F67;
     display: flex;
-    align-items: center;
+    flex-grow: 1;
     gap: 8px;
     padding: 10px;
     border-radius: 4px;
+    align-items: center;
+    justify-content: center;
 }
 
 
