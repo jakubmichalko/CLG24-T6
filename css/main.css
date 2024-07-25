@@ -122,6 +122,25 @@ header {
     text-decoration: none;
 }
 
+
+.right-side {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.links {
+    display: flex;
+    gap: 20px;
+}
+
+.links a {
+    font-size: 16px;
+    text-decoration: none;
+}
+
+
+
 .socials {
     display: flex;
     justify-content: center;
