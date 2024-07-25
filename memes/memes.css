@@ -22,6 +22,17 @@ h1 {padding: 15px; text-align: center; margin-top: 56px;;}
 
 p{padding: 15px; text-align: center; font-size: 18px;}
 
+.meme-intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.meme-intro .description-site {
+    width: 80%;
+}
+
 .header-title {
     padding: 0px;
 }
