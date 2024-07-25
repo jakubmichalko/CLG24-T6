@@ -157,6 +157,15 @@ header {
     top: -5px;
 }
 
+
+.right-side .links a {
+    transition-property: transform;
+}
+
+.right-side .links a:hover {
+    text-decoration-line: underline;
+}
+
 footer {
     text-align: center;
     background-color: #DB7F67;
