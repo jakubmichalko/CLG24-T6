@@ -74,8 +74,13 @@
     color: blue;
 }
 
+.right-box {
+    transition-property: transform;
+}
 
-
+.right-box:hover {
+    text-decoration-line: underline;
+}
 
 
 
