@@ -53,7 +53,29 @@ main {
     gap: 5px;
 }
 
-.product img {
+.product .icon {
+    padding: 0px;
+    width: 32px;
+}
+
+.product .buy-a {
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+}
+
+.product .buy {
+    background-color: #DB7F67;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+
+
+.product .image img {
     width: 250px;
 }
 
