@@ -6,6 +6,11 @@
     
 }
 
+.description {
+    padding: 15px; 
+    text-align: center;
+}
+
 .reference-container {
     display: flex;
     flex-direction:row;
