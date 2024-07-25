@@ -19,7 +19,7 @@ span {
     align-items: center;
 }
 
-.right-side {
+.introduction .right-side {
     display: flex;
     flex-direction: column;
     gap: 64px;
