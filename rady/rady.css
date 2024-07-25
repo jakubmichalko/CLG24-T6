@@ -25,7 +25,7 @@ margin: 0;
 }
 
 
-h2 {
+h1 {
     display: flex;
    justify-content: center;
    height: 30px;
@@ -33,6 +33,7 @@ h2 {
    border: 2px solid #000000; */
    border-radius: 4px;
    margin: 17px;
+   margin-top: 56px;
    padding: 5px;
    /* letter-spacing: 7px; */
    align-items: center;
