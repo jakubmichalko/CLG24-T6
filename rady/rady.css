@@ -38,3 +38,7 @@ h2 {
    align-items: center;
 }
 
+.popis {
+    display:flex;
+    text-align: center;
+}
