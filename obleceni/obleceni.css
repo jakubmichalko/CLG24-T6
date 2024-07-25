@@ -11,6 +11,10 @@ main {
     margin-top: 32px;
 }
 
+.intro .description {
+    margin-top: 24px;
+}
+
 .showcase {
     display: flex;
     justify-content: center;
@@ -18,7 +22,7 @@ main {
     flex-wrap: wrap;
     gap: 48px;
     padding: 12px;
-    margin-top: 64px;
+    margin-top: 52px;
 }
 
 .product {
