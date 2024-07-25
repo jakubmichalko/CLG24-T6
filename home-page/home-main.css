@@ -25,6 +25,10 @@ span {
     gap: 64px;
 }
 
+/* .introduction .intro-img {
+    width: ;
+} */
+
 .description {
     display: flex;
     flex-direction: column;
@@ -53,4 +57,10 @@ span {
 
 .button:hover {
     background-color: #DB7F67;
+}
+
+
+.intro-img {
+    width: 700px;
+    height: auto;
 }
