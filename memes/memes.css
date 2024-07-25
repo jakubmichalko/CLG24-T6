@@ -3,8 +3,15 @@
     padding: 15px;
     height: 300px;  
     transition-duration: 0.5s;
-   
 }
+
+.gallery-img{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 
 .gallery-img img:hover {
 transform: scale(1.1);
